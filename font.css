@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?uh70ci');
+  src:  url('fonts/icomoon.eot?uh70ci#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?uh70ci') format('truetype'),
+    url('fonts/icomoon.woff?uh70ci') format('woff'),
+    url('fonts/icomoon.svg?uh70ci#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tripadvisor:before {
+  content: "\e900";
+  color: #ffffff;
+}
+.icon-facebook2:before {
+  content: "\ea91";
+  color: #ffffff;
+}
+.icon-whatsapp:before {
+  content: "\ea93";
+  color: #ffffff;
+}
