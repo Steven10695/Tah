@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<title>Food and Drinks</title>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+<meta name="MobileOptimized" content="width"/>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="author" content="Jean Cuadros Vasquez"/>
+
+<meta name="robots" content="index,follow"/>
+<meta name="revisit" content="15 days"/>
+<meta name="Copyright" content="Copyright © Todos los derechos reservados."/>
+<meta name="title" content="Terra Andina Hotel"/>
+<meta name="Keywords" content="Cusco Hotels - Restaurant Colonial Patio"/>
+<meta name="Description" content="Cusco Hotels - Restaurant Colonial Patio"/>
+
+<meta property="og:title" content="Terra Andina Hotel"/> 
+<meta property="og:type" content="website"/> 
+<meta property="og:url" content="http://www.terraandinahotel.com/"/> 
+<meta property="og:site_name" content="terraandinahotel.com/"/>
+<meta property="og:image" content="http://www.terraandinahotel.com/img/logo.png"/>
+<meta property="og:description" content=""/> 
+
+<link type="image/x-icon" rel="shortcut icon" href="img/icon.ico"/>
+<link type="image/x-icon" rel="apple-touch-icon" href="img/icon.ico"/>
+
+<link type="text/css" rel="stylesheet" href="css/jquery-ui.css"/>
+<link type="text/css" rel="stylesheet" href="css/style.css"/>
+<link rel="stylesheet" href="css/font.css">
+
+<!-- Compatibility -->
+<!--[if lt IE 9]><script src="js/html5shiv.js" type="text/javascript"></script><![endif]-->
+<!--[if lt IE 9]><script src="js/respond.js" type="text/javascript"></script><![endif]-->
+</head>
+
+<body>
+
+<noscript>
+  To use the full functionality of this site it is necessary to have JavaScript enabled. Here are the 
+  <a href="http://www.enable-javascript.com/es/" target="_blank">instructions to enable JavaScript in your web browser</a>
+</noscript>
+
+<div class="header-container">
+  <header class="wrapper main-header clearfix">
+    <h1>
+      <a href="index.html" class="logo" title="Terra Andina Hotel">Terra Andina Hotel</a>
+      <a href="awards_and_testimonials.html" class="sub-logo"><img src="img/premios/awards4.png" alt="Awards" width="220"/></a>      
+      <a href="https://www.travelocity.com/" class="travelocity" target="_blank"><img src="img/premios/travelocity.jpg" alt="travelocity" width="220"/></a>
+    </h1>
+    <div class="idiomas">
+      <select class="idioma" name="idioma" onchange="handleSelect(this)">
+        <option value="">Languages</option>
+        <option value="food_and_drinks.html">English</option>
+        <option value="es/alimentos_y_bebidas.html">Spanish</option>
+      </select>
+    </div><!--idiomas-->
+    <nav class="main-menu">
+      <div class="header-menu"><span></span></div>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="the_hotel.html">The Hotel</a></li>
+        <li><a href="location.html">Location</a></li>
+        <li><a href="room_features_y_services.html">Room Features and Services</a></li>
+        <li><a href="food_and_drinks.html" class="active">Food and Drinks</a></li>
+        <li><a href="tours_and_useful_information.html">Tours and Useful Information</a></li>
+        <li><a href="photo_gallery.html">Photo Gallery</a></li>
+        <li><a href="testimonials.html">Testimonials</a></li>
+        <li><a href="contact_us.html">Contact us</a></li>
+      </ul>
+    </nav><!--main-menu-->
+  </header><!--header-menu-->
+</div><!--header-container-->
+
+<div class="slider-container"> 
+  <div class="main-slider clearfix">  
+    <div class="panel-motor-reservas">
+      <div class="wrapper validar-motor">
+        <form id="validar-motor" name="motor" action="https://be.synxis.com">
+          <input type="hidden" name="Hotel" value="15300">
+          <input type="hidden" name="Chain" value="9776">
+          <input type="hidden" name="locale" value="en-US">
+
+          <input type="text" name="arrive" id="arrive">
+          <input type="text" name="depart" id="depart">
+
+          <div class="caja-group">
+            <div class="caja-input">
+            <label for="rooms">Rooms</label>
+              <select name="rooms" id="rooms" class="number">
+                <option value="1" selected="selected">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+              </select>
+            </div>
+            <div class="caja-input">
+            <label for="adult">Adults</label>
+              <select name="adult" id="adult" class="number">
+                <option value="1" selected="selected">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+                <option value="11">11</option>
+                <option value="12">12</option>
+                <option value="13">13</option>
+                <option value="14">14</option>
+                <option value="15">15</option>
+                <option value="16">16</option>
+                <option value="17">17</option>
+                <option value="18">18</option>
+                <option value="19">19</option>
+              </select>
+            </div>
+            <div class="caja-input">
+            <label for="child">Children</label>
+            <select name="child" id="child" class="number">
+                <option value="0" selected="selected">0</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+                <option value="11">11</option>
+                <option value="12">12</option>
+                <option value="13">13</option>
+                <option value="14">14</option>
+                <option value="15">15</option>
+                <option value="16">16</option>
+                <option value="17">17</option>
+                <option value="18">18</option>
+              </select>
+            </div>
+          </div><!--caja-group-->
+            <input type="submit" value="CHECK AVAILABILITY">
+        </form>
+      </div>
+    </div><!--panel-motor-reservas-->
+    <div class="flexslider">      
+      <ul class="slides">
+        <li>
+          <div class="slogan slogan-restaurant-dos">
+            <p>In Cusco Historic District</p>
+          </div>
+          <img src="img/slider/terra_andina_hotel_restaurant_02.jpg" alt=""/>
+        </li>
+        <li>
+          <div class="slogan slogan-restaurant-tres">
+            <p>In Cusco Historic District</p>
+          </div>
+          <img src="img/slider/terra_andina_hotel_restaurant_03.jpg" alt=""/>
+        </li>
+        <li>
+          <div class="slogan slogan-restaurant-tres">
+            <p>In Cusco Historic District</p>
+          </div>
+          <img src="img/slider/terra_andina_hotel_plato_01.jpg" alt=""/>
+        </li>
+        <li>
+          <div class="slogan slogan-restaurant-tres">
+            <p>In Cusco Historic District</p>
+          </div>
+          <img src="img/slider/terra_andina_hotel_plato_02.jpg" alt=""/>
+        </li>
+        <li>
+          <div class="slogan slogan-restaurant-tres">
+            <p>In Cusco Historic District</p>
+          </div>
+          <img src="img/slider/terra_andina_hotel_plato_03.jpg" alt=""/>
+        </li>
+      </ul>
+    </div><!--flexslider-->
+  </div><!--main-slider-->
+</div><!--slider-container-->
+
+<div class="wrapper-container">
+  <div class="food-section wrapper clearfix">
+    <h2>Food and Drinks</h2>
+    <p>
+      <b>The Colonial Patio Restaurant</b>, built in the late 19th century, is located on the lobby level of the Hotel. Beautiful travertine tables and comfortable iron carved chairs complement the colonial architecture of romantic arches made from dry stone methods. You can enjoy a light lunch before taking your City Tours or simply enjoy the natural, bright ambiance. In the evenings, during dinner, you can immerse yourself in the quiet atmosphere and be delighted by our fine service. You will savor the cuisine of our delectable menus, whose offerings perfectly reflect the elegance of our hotel.
+    </p>
+    <p>
+      We focus in making your gastronomic experience extraordinary!
+    </p>
+    <p>
+      Our restaurant The Colonial Patio will delight you with an exquisite variety of traditional dishes, which are considered the Sacred Food for the Incas. <br>
+      Our meals are presented in a special menu designed by Le Cordon Blue Chefs. <br>
+      Each dish is prepared with fresh produce, organic vegetables and carefully selected native ingredients. 
+    </p>
+    <p>
+      Among the exotic produce, we use organic, non-GMO, high protein grains such as quinoa, kiwicha, and naturally occurring purple corn. Also, a tremendous variety of potatoes are available. They are varied according to region and have diverse textures and colors. For example, Yucca root, native to the crescent rain forest near Cusco and Machu Picchu, is a root that can be served as a side dish to seafood or meat. In addition, some of our dishes are prepared with the infamous maca root, which is a well-known source of energetic nutrients.
+    </p>
+    <p>
+      Mother Nature is very generous in providing us Andean spices and herbs like rocoto, ruda, huacatay, muña, which are found in the hills and gardens of the Sacred Valley in Cuzco. All these natural contributions are part of the everyday dining culture across Peruvian tables. We want to share with you and give you the opportunity to taste and experience the flavor of Peru and the culinary traditions of the Incan Empire.
+    </p>
+    <p>
+      In order to have the best Andean gastronomic experience, and feel like you have truly explored the Peruvian – Quechua – Inca culture, you must try our traditional dishes like “Lomo Saltado”, “Arroz con Pollo”, "Papa a La Huancaina”, “Aji de Gallina” and the exotic “Alphaca Terra Andina”.
+    </p>
+    <p>
+      Our bar will delight you with all kinds of fresh fruit juices, such as oranges, lemon, papaya, pineapple, mango, chicha morada, cocona and passion fruit. Chicha morada, a very typical Peruvian refreshment, is very high in anti-oxidants. <br>
+      Cocona, similar in appearance to an orange tomato, is high in vitamin “C”. 
+    </p>
+    <p>
+     In addition, among various drinks, we offer a selection of wine, cocktails, Peruvian beer, traditional Pisco Sour and Algarrobina.
+    </p>
+  </div><!--food-section-->
+</div><!--wrapper-container-->
+
+<div class="footer-container">
+  <footer class="wrapper main-footer clearfix">
+    <div class="premios-container" id="awards">
+      <ul class="premios-content">
+        <li><img src="img/premios/logo_tripadvisor2_choice_2013.png" height="70" class="tooltip-premio-tres" alt=""></li>
+        <li><img src="img/premios/logo_tripadvisor_2014.png" height="70" class="tooltip-premio-tres" alt=""></li>
+        <li><img src="img/premios/logo_tripadvisor_2018.png" height="70" class="tooltip-premio-tres" alt=""></li>
+        <div class="d-block-xs"></div>
+        <li><img src="img/premios/logo_tripadvisor_certificate_excellence_2012.png" height="70" class="tooltip-premio-dos" alt=""></li>
+        <li><img src="img/premios/logo_tripadvisor_certificate_excellence_2015.png" height="70" class="tooltip-premio-dos" alt=""></li>
+        <div class="d-block-sm"></div>
+        <li><img src="img/premios/logo_tripadvisor_certificate_excellence_2016.png" height="70" class="tooltip-premio-dos" alt="TripAdvisor"/></li>
+        <div class="d-block-xs"></div>
+        <li><img src="img/premios/logo_expedia_insiders_select_2010.png" height="70" class="tooltip-premio-uno" alt=""></li>
+        <li><img src="img/premios/logo_expedia_insiders_2012.png" height="70" class="tooltip-premio-uno" alt=""></li>
+        <!-- <li><img src="img/premios/logo_booking_2015.png" height="70" class="tooltip-premio-cuatro" alt="Booking"/></li>
+        <div class="d-block-xs"></div> -->
+        <li><img src="img/premios/logo_excelencia_despegar.png" height="70" alt="Award excellence 'Despegar'"></li>
+      </ul>
+    </div><!--premios-container--> 
+  </footer><!--main-footer-->
+  <div class="barra-down"></div>
+</div><!--footer-container-->
+
+<!--Social Media Icons -->
+
+<div class="iconos"> 
+    <a href="https://www.tripadvisor.com.pe/Hotel_Review-g294314-d564791-Reviews-Terra_Andina_Colonial_Mansion-Cusco_Cusco_Region.html" class="icon icon-tripadvisor" target=" _blank"></a>
+    <a href="https://www.facebook.com/TerraAndinaColonialMansion/" class="icon icon-facebook2" target=" _blank"></a>
+    <a href="https://wa.me/51997521868" class="icon icon-whatsapp" target="_blank"></a>
+</div>
+
+<a href="#" class="scroll-top">Ir Arriba</a>
+
+<!-- Scripts -->
+<script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="js/jquery-ui-1.11.4.min.js"></script>
+<script type="text/javascript" src="js/modernizr.min.js"></script>
+<script type="text/javascript" src="js/nicescroll.min.js"></script>
+<script type="text/javascript" src="js/flexslider.min.js"></script>
+<script type="text/javascript" src="js/selectboxit.min.js"></script>
+<script type="text/javascript" src="js/wow-animate.min.js"></script>
+<script type="text/javascript" src="js/tooltipster.min.js"></script>
+<script type="text/javascript" src="js/jquery.validate.min.js"></script>
+<script type="text/javascript" src="js/fancybox.min.js?v=2.1.5"></script>
+<script type="text/javascript" src="js/script.js"></script>
+
+</body>
+</html>

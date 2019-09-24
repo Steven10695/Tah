@@ -1,0 +1,628 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"he",
+				"line-height"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"ta",
+				"table-column"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"in",
+				"inside"
+			],
+			[
+				"o",
+				"outside"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"ar",
+				"article	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/fti_en/restaurants/lima/miraflores-la-rosa-nautica.html",
+		"/C/wamp/www/fti_en/restaurants.html",
+		"/C/wamp/www/fti_en/js/jquery.dlmenu.js",
+		"/C/wamp/www/fti_en/tours_description/amazon-rain-forest/ceiba-tops-3-days-2-nights.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package01.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package02.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package03.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package04.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package05.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package06.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package07.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package08.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package09.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package10.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package11.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package12.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package13.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package14.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package15.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package16.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package17.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package18.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package19.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package20.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package21.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package22.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package23.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package24.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package25.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package26.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package27.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package28.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package29.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package30.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package31.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package32.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package33.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package34.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package35.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package36.html",
+		"/C/wamp/www/fti_en/tours/peruvian_treasures/package37.html",
+		"/C/wamp/www/fti_en/tours/peru_extraordinary/package09.html",
+		"/C/wamp/www/fti_en/tours/peru_extraordinary/package10.html",
+		"/C/wamp/www/fti_en/tours/peru_extraordinary/package11.html",
+		"/C/wamp/www/fti_en/tours/peru_extraordinary/package12.html",
+		"/C/wamp/www/fti_en/tours/peru_extraordinary/package13.html",
+		"/C/wamp/www/fti_en/tours/peru_extraordinary/package14.html",
+		"/C/wamp/www/fti_en/tours/peru_extraordinary/peru_extraordinary_chart.html",
+		"/C/wamp/www/fti_en/tours/peru_extraordinary/with_inca_trail_1.html",
+		"/C/wamp/www/fti_en/tours/peru_extraordinary/package01.html",
+		"/C/wamp/www/fti_en/tours/peru_extraordinary/package02.html",
+		"/C/wamp/www/fti_en/tours/peru_extraordinary/package03.html",
+		"/C/wamp/www/fti_en/tours/peru_extraordinary/package04.html",
+		"/C/wamp/www/fti_en/tours/peru_extraordinary/package05.html",
+		"/C/wamp/www/fti_en/tours/peru_extraordinary/package06.html",
+		"/C/wamp/www/fti_en/tours/peru_extraordinary/package07.html",
+		"/C/wamp/www/fti_en/tours/peru_extraordinary/package08.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package01.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package02.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package03.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package04.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package05.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package06.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package07.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package08.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package09.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package10.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package11.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package12.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package13.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package14.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package15.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package16.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package17.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package18.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package19.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package20.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package21.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package22.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package23.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package24.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package25.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package26.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package27.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package28.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package29.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package30.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package31.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package32.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package33.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package34.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package35.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package36.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package37.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package38.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package39.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package40.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package41.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package42.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package43.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package44.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package45.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package46.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package47.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package48.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package49.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package50.html",
+		"/C/wamp/www/fti_en/tours/exploring_peru/package51.html",
+		"/C/wamp/www/fti_en/tours/discover_peru/package47.html",
+		"/C/wamp/www/fti_en/tours/discover_peru/package01.html",
+		"/C/wamp/www/fti_en/tours/discover_peru/package02.html",
+		"/C/wamp/www/fti_en/tours/discover_peru/package03.html",
+		"/C/wamp/www/fti_en/tours/discover_peru/package04.html",
+		"/C/wamp/www/fti_en/tours/discover_peru/package05.html",
+		"/C/wamp/www/fti_en/tours/discover_peru/package06.html",
+		"/C/wamp/www/fti_en/tours/discover_peru/package07.html",
+		"/C/wamp/www/fti_en/tours/discover_peru/package08.html",
+		"/C/wamp/www/fti_en/tours/discover_peru/package09.html",
+		"/C/wamp/www/fti_en/tours/discover_peru/package10.html",
+		"/C/wamp/www/fti_en/tours/discover_peru/package11.html",
+		"/C/wamp/www/fti_en/tours/discover_peru/package12.html",
+		"/C/wamp/www/fti_en/tours/discover_peru/package13.html",
+		"/C/wamp/www/fti_en/tours/discover_peru/package14.html",
+		"/C/wamp/www/fti_en/tours/discover_peru/package15.html",
+		"/C/wamp/www/fti_en/tours/discover_peru/package16.html",
+		"/C/wamp/www/fti_en/tours/discover_peru/package17.html",
+		"/C/wamp/www/fti_en/tours/discover_peru/package18.html",
+		"/C/wamp/www/fti_en/tours/discover_peru/package19.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Peruvian Treasures #",
+			"Peru Extraordinary #",
+			"Exploring Peru #",
+			"<title>",
+			"(bus of tourist service)",
+			"(includes the lunch time and tours that do in the way)",
+			"BUS SCHEDULE",
+			"hours",
+			"Daily",
+			"Duration",
+			"Departures",
+			"Frequency",
+			"ITINERARY",
+			"ITINERAR",
+			"ITINE",
+			"<input id=\"tab-1\" type=\"radio\" name=\"radio-set\" class=\"tab-selector-1\" checked=\"checked\"/><label for=\"tab-1\" class=\"tab-label-1\">Brief</label>\n<input id=\"tab-2\" type=\"radio\" name=\"radio-set\" class=\"tab-selector-2\" /><label for=\"tab-2\" class=\"tab-label-2\">itinerary</label>\n<input id=\"tab-3\" type=\"radio\" name=\"radio-set\" class=\"tab-selector-3\" /><label for=\"tab-3\" class=\"tab-label-3\">Tour Prices</label>\n<input id=\"tab-4\" type=\"radio\" name=\"radio-set\" class=\"tab-selector-4\" /><label for=\"tab-4\" class=\"tab-label-4\">Hotels to use</label>\n<input id=\"tab-5\" type=\"radio\" name=\"radio-set\" class=\"tab-selector-5\" /><label for=\"tab-5\" class=\"tab-label-5\">Tour Includes</label>",
+			"<input id=\"tab-1\" type=\"radio\" name=\"radio-set\" class=\"tab-selector-1\" checked=\"checked\" /><label for=\"tab-1\" class=\"tab-label-1\">Brief</label>\n<input id=\"tab-2\" type=\"radio\" name=\"radio-set\" class=\"tab-selector-2\" /><label for=\"tab-2\" class=\"tab-label-2\">itinerary</label>\n<input id=\"tab-3\" type=\"radio\" name=\"radio-set\" class=\"tab-selector-3\" /><label for=\"tab-3\" class=\"tab-label-3\">Tour Prices</label>\n<input id=\"tab-4\" type=\"radio\" name=\"radio-set\" class=\"tab-selector-4\" /><label for=\"tab-4\" class=\"tab-label-4\">Hotels to use</label>\n<input id=\"tab-5\" type=\"radio\" name=\"radio-set\" class=\"tab-selector-5\" /><label for=\"tab-5\" class=\"tab-label-5\">Tour Includes</label>",
+			"<input id=\"tab-1\" type=\"radio\" name=\"radio-set\" class=\"tab-selector-1\" checked=\"checked\"/><label for=\"tab-1\" class=\"tab-label-1\">Brief</label>\n<input id=\"tab-2\" type=\"radio\" name=\"radio-set\" class=\"tab-selector-2\" /><label for=\"tab-2\" class=\"tab-label-2\">itinerary</label>\n<input id=\"tab-3\" type=\"radio\" name=\"radio-set\" class=\"tab-selector-3\" /><label for=\"tab-3\" class=\"tab-label-3\">Tour Prices</label>\n<input id=\"tab-4\" type=\"radio\" name=\"radio-set\" class=\"tab-selector-4\" /><label for=\"tab-4\" class=\"tab-label-4\">Hotels to use</label>\n<input id=\"tab-5\" type=\"radio\" name=\"radio-set\" class=\"tab-selector-5\" /><label for=\"tab-5\" class=\"tab-label-5\">Tour Includes</label>",
+			"<input id=\"tab-1\" type=\"radio\" name=\"radio-set\" class=\"tab-selector-1\" checked=\"checked\" /><label for=\"tab-1\" class=\"tab-label-1\">Brief</label>\n<input id=\"tab-2\" type=\"radio\" name=\"radio-set\" class=\"tab-selector-2\" /><label for=\"tab-2\" class=\"tab-label-2\">itinerary</label>\n<input id=\"tab-3\" type=\"radio\" name=\"radio-set\" class=\"tab-selector-3\" /><label for=\"tab-3\" class=\"tab-label-3\">Tour Prices</label>\n<input id=\"tab-4\" type=\"radio\" name=\"radio-set\" class=\"tab-selector-4\" /><label for=\"tab-4\" class=\"tab-label-4\">Hotels to use</label>\n<input id=\"tab-5\" type=\"radio\" name=\"radio-set\" class=\"tab-selector-5\" /><label for=\"tab-5\" class=\"tab-label-5\">Tour Includes</label>",
+			"<a href=\"\"><img src=\"../images/icono-word.png\" title=\"Descargar Word\" class=\"id-word\" alt=\"\"></a>",
+			"<a href=\"\"><img src=\"../images/icono-pdf.png\" title=\"Abrir Pdf\" class=\"id-pdf\" alt=\"\"></a>",
+			"<a href=\"\"><img src=\"../images/icono-word.png\" title=\"Download Word\" class=\"id-word\" alt=\"\"></a>",
+			"<a href=\"\" class=\"a-ico\" target=\"_blank\"><div class=\"ico-pdf\"></div></a>",
+			"<a href=\"\"><img src=\"../images/icono-word.png\" title=\"Download Word\" class=\"id-word\" alt=\"\"></a>",
+			"<a href=\"\"><img src=\"../images/icono-pdf.png\" title=\"Open Pdf\" class=\"id-pdf\" alt=\"\"></a>",
+			"<li><a href=\"#\"><span>Ancient Inca Passage</span></a></li>",
+			"Ancient Inca Passage",
+			"</a> </ p> <span> ",
+			"<h2>><h2>",
+			"<h2><h2>",
+			"<a href=\"\"><img src=\"../images/icono-word.png\" title=\"Descargar Word\" class=\"id-word\" alt=\"\"></a>",
+			"<a href=\"\"><img src=\"../images/icono-pdf.png\" title=\"Abrir Pdf\" class=\"id-pdf\" alt=\"\"></a>",
+			"<li><a href=\"../itineraries_peru_extraordinary.html\"><span>Peru Extraordinaria</span></a></li>\n<li><a href=\"../itineraries_discover-peru.html\"><span>Descrubra Peru</span></a></li>\n<li><a href=\"../itineraries_peruvian-treasures.html\" class=\"c-a\"><span>Tesoros del Peru</span></a></li>\n<li><a href=\"../itineraries_exploring-peru.html\"><span>Explorando Peru</span></a></li>\n<li><a href=\"../../itineraries.html#ancient\"><span>Antiguo Pasaje Inca</span></a></li>\n<li><a href=\"../itineraries_andean-luxury.html\"><span>Lujo Andina</span></a></li>\n<li><a href=\"../itineraries_new-products.html\"><span>Nuevos Productos y Paquetes Especiales</span></a></li>",
+			"<li><a href=\"../itineraries_peru_extraordinary.html\"><span>Peru Extraordinaria</span></a></li>\n<li><a href=\"../itineraries_discover-peru.html\"><span>Descrubra Peru</span></a></li>\n<li><a href=\"../itineraries_peruvian-treasures.html\"><span>Tesoros del Peru</span></a></li>\n<li><a href=\"../itineraries_exploring-peru.html\" class=\"c-a\"><span>Explorando Peru</span></a></li>\n<li><a href=\"../../itineraries.html#ancient\"><span>Antiguo Pasaje Inca</span></a></li>\n<li><a href=\"../itineraries_andean-luxury.html\"><span>Lujo Andina</span></a></li>\n<li><a href=\"../itineraries_new-products.html\"><span>Nuevos Productos y Paquetes Especiales</span></a></li>",
+			"<li><a href=\"../itineraries_peru_extraordinary.html\"><span>Peru Extraordinaria</span></a></li>",
+			"itineraries_andean-luxury.html\"><span>Lujo Andina</span></a></li>",
+			"<li><a href=\"../../itineraries.html\">Programs</a></li>\n<li><a href=\"../../tours_description.html\">Tour Descriptions</a></li>\n<li><a href=\"../../travel_planner.html\" class=\"active\">Travel Planner</a></li>\n<li><a href=\"../../hotels.html\">The Hotels</a></li>\n<li><a href=\"../../cruises.html\">The Cruises</a></li>\n<li><a href=\"../../restaurants.html\">The Restaurants</a></li>",
+			"<li><a href=\"../itineraries.html\">Programs</a></li>\n<li><a href=\"../tours_description.html\">Tour Descriptions</a></li>\n<li><a href=\"../travel_planner.html\" class=\"active\">Travel Planner</a></li>\n<li><a href=\"../hotels.html\">The Hotels</a></li>\n<li><a href=\"../cruises.html\">The Cruises</a></li>\n<li><a href=\"../restaurants.html\">The Restaurants</a></li>",
+			"<li><a href=\"../../itineraries.html\">Programs</a></li>\n<li><a href=\"../../tours_description.html\" class=\"active\">Tour Descriptions</a></li>\n<li><a href=\"../../travel_planner.html\">Travel Planner</a></li>\n<li><a href=\"../../hotels.html\">The Hotels</a></li>\n<li><a href=\"../../cruises.html\">The Cruises</a></li>\n<li><a href=\"../../restaurants.html\">The Restaurants</a></li>",
+			"<li><a href=\"../itineraries.html\">Programs</a></li>\n<li><a href=\"../tours_description.html\" class=\"active\">Tour Descriptions</a></li>\n<li><a href=\"../travel_planner.html\">Travel Planner</a></li>\n<li><a href=\"../hotels.html\">The Hotels</a></li>\n<li><a href=\"../cruises.html\">The Cruises</a></li>\n<li><a href=\"../restaurants.html\">The Restaurants</a></li>",
+			"<li><a href=\"../../itineraries.html\" class=\"active\">Programs</a></li>\n<li><a href=\"../../tours_description.html\">Tour Descriptions</a></li>\n<li><a href=\"../../travel_planner.html\">Travel Planner</a></li>\n<li><a href=\"../../hotels.html\">The Hotels</a></li>\n<li><a href=\"../../cruises.html\">The Cruises</a></li>\n<li><a href=\"../../restaurants.html\">The Restaurants</a></li>",
+			"<li><a href=\"../itineraries.html\" class=\"active\">Programs</a></li>\n<li><a href=\"../tours_description.html\">Tour Descriptions</a></li>\n<li><a href=\"../travel_planner.html\">Travel Planner</a></li>\n<li><a href=\"../hotels.html\">The Hotels</a></li>\n<li><a href=\"../cruises.html\">The Cruises</a></li>\n<li><a href=\"../restaurants.html\">The Restaurants</a></li>",
+			"<li><a href=\"../../itineraries.html\">Programs</a></li>\n<li><a href=\"../../tours_description.html\">Tour Descriptions</a></li>\n<li><a href=\"../../travel_planner.html\">Travel Planner</a></li>\n<li><a href=\"../../hotels.html\">The Hotels</a></li>\n<li><a href=\"../../cruises.html\">The Cruises</a></li>\n<li><a href=\"../../restaurants.html\" class=\"active\">The Restaurants</a></li>",
+			"<li><a href=\"../itineraries.html\">Programs</a></li>\n<li><a href=\"../tours_description.html\">Tour Descriptions</a></li>\n<li><a href=\"../travel_planner.html\">Travel Planner</a></li>\n<li><a href=\"../hotels.html\">The Hotels</a></li>\n<li><a href=\"../cruises.html\">The Cruises</a></li>\n<li><a href=\"../restaurants.html\" class=\"active\">The Restaurants</a></li>",
+			"<li><a href=\"../itineraries.html\" class=\"active\">Programs</a></li>\n<li><a href=\"../tours_description.html\">Tour Descriptions</a></li>\n<li><a href=\"../travel_planner.html\">Travel Planner</a></li>\n<li><a href=\"../hotels.html\">The Hotels</a></li>\n<li><a href=\"../cruises.html\">The Cruises</a></li>\n<li><a href=\"../restaurants.html\">The Restaurants</a></li>",
+			"<li><a href=\"../../itineraries.html\">Programs</a></li>\n<li><a href=\"../../tours_description.html\">Tour Descriptions</a></li>\n<li><a href=\"../../travel_planner.html\">Travel Planner</a></li>\n<li><a href=\"../../hotels.html\" class=\"active\">The Hotels</a></li>\n<li><a href=\"../../cruises.html\">The Cruises</a></li>\n<li><a href=\"../../restaurants.html\">The Restaurants</a></li>",
+			"<li><a href=\"../itineraries.html\">Programs</a></li>\n<li><a href=\"../tours_description.html\">Tour Descriptions</a></li>\n<li><a href=\"../travel_planner.html\">Travel Planner</a></li>\n<li><a href=\"../hotels.html\" class=\"active\">The Hotels</a></li>\n<li><a href=\"../cruises.html\">The Cruises</a></li>\n<li><a href=\"../restaurants.html\">The Restaurants</a></li>",
+			"<li><a href=\"../itineraries.html\">Programs</a></li>\n<li><a href=\"../tours_description.html\">Tour Descriptions</a></li>\n<li><a href=\"../travel_planner.html\">Travel Planner</a></li>\n<li><a href=\"../hotels.html\">The Hotels</a></li>\n<li><a href=\"../cruises.html\" class=\"active\">The Cruises</a></li>\n<li><a href=\"../restaurants.html\">The Restaurants</a></li>",
+			"<li><a href=\"itineraries.html\">Programs</a></li>\n<li><a href=\"tours_description.html\">Tour Descriptions</a></li>\n<li><a href=\"travel_planner.html\">Travel Planner</a></li>\n<li><a href=\"hotels.html\">The Hotels</a></li>\n<li><a href=\"cruises.html\" class=\"active\">The Cruises</a></li>\n<li><a href=\"restaurants.html\">The Restaurants</a></li>",
+			"<li><a href=\"itineraries.html\">Programs</a></li>\n<li><a href=\"tours_description.html\">Tour Descriptions</a></li>\n<li><a href=\"travel_planner.html\">Travel Planner</a></li>\n<li><a href=\"hotels.html\">The Hotels</a></li>\n<li><a href=\"cruises.html\">The Cruises</a></li>\n<li><a href=\"restaurants.html\">The Restaurants</a></li>",
+			"Sueños",
+			"imposibles",
+			"sueños",
+			"Come to Per",
+			"dreams",
+			"Impossible",
+			"sueños",
+			"Live your",
+			"main-",
+			"<img src=\"../images/icono-pdf.png\" title=\"Open Pdf\" class=\"id-pdf\" alt=\"\">",
+			"<img src=\"../images/icono-word.png\" title=\"Download Word\" class=\"id-word\" alt=\"\">",
+			"<img src=\"../images/icono-pdf.png\" title=\"Open Pdf\" class=\"id-pdf\" alt=\"\">",
+			".ic-tabla td:nth-child(1){width: 90%;}",
+			"=\"md\"",
+			".ic-tabla td:nth-child(3)",
+			"/*.ic-tabla td:nth-child(2),.ic-tabla td:nth-child(3){min-width:50px;}*/",
+			"chil",
+			"ic-tabla",
+			"<a href=\"\" class=\"tab-img\"><img src=\"../../images/icono-pdf.png\" class=\"id-pdf\" alt=\"\"></a>\n<a href=\"\" class=\"tab-img\"><img src=\"../../images/icono-word.png\" class=\"id-word\" alt=\"\"></a>",
+			"<a href=\"\" class=\"tab-img\">",
+			"id-pdf",
+			"ico",
+			"id-",
+			"pdf",
+			"<a href=\"\"><img src=\"../images/icono-word.png\"",
+			"<a href=\"\"><img src=\"../images/icono-pdf.png\"",
+			"<a href=\"\"><img src=\"../images/icono-word.png\"",
+			"<a href=\"\"><img src=\"../images/icono-pdf.png\"",
+			"<a href=\"\"><img src=\"../images/icono-word.png\"",
+			"\"><img src=\"../images/icono-pdf.png\"",
+			"<a href=\"\"><img src=\"../images/icono-pdf.png\"",
+			"<header",
+			"pc-indice",
+			"</h4></header>",
+			"<header><h4>",
+			"<header",
+			"</h2></header>",
+			"<header><h2>",
+			"<header",
+			"tab-la",
+			"galeria-uno ",
+			"<header",
+			"<div class=\"cm-header\"><h2> id=\"main-header\"><div id=\"header-content\">",
+			"<header",
+			"</h2></header>",
+			"header\"",
+			"</h2></header>",
+			"<div class=\"cm-header\"><h2>><h2>",
+			"header\"",
+			"<div class=\"cm-header\"><h2>><h2>",
+			"r\"><h2>",
+			"<div class=\"cm-header\"><h2>><h2>",
+			"r\"><h2>",
+			"<div class=\"cm-header\"><h2>><h2>",
+			"<header",
+			"<header><h2>",
+			"<header",
+			"/header",
+			"<header",
+			"</h3></header>",
+			"<header><h3>",
+			"<header",
+			"</h2></header>",
+			"<header><h2>",
+			"<header",
+			"<header class=\"cm-header\"><h3>",
+			"</h3></header>",
+			"<header><h3>",
+			"<header",
+			"bs-header",
+			"<header",
+			"<span class=\"selectOption\"><a href=\"\" class=\"s-a\">English</a></span>\n<span class=\"selectOption\"><a href=\"\" class=\"s-a\">Español</a></span>\n<span class=\"selectOption\"><a href=\"\" class=\"s-a\">Portugues</a></span>",
+			"<span class=\"selectOption\"><a href=\"\" class=\"s-a\">English</a></span>\n<span class=\"selectOption\"><a href=\"\" class=\"s-a\">Español</a></span>\n<span class=\"selectOption\"><a href=\"/\" class=\"s-a\">Portugues</a></span>",
+			"<span class=\"selectOption\"><a href=\"\" class=\"s-a\">English</a></span>\n<span class=\"selectOption\"><a href=\"\" class=\"s-a\">Español</a></span>\n<span class=\"selectOption\"><a href=\"\" class=\"s-a\">Portugues</a></span>",
+			"pit-header",
+			"ca-main header",
+			"tab header",
+			"<header"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" </",
+			"(Bus de servicio turístico)",
+			"(Incluye la hora del almuerzo y excursiones que se puede hacer en el camino)",
+			"HORARIO DEL BUS",
+			"horas",
+			"Diaria",
+			"Duración",
+			"Salidas",
+			"Frecuencia",
+			"Frecuencia ",
+			"<input id=\"tab-1\" type=\"radio\" name=\"radio-set\" class=\"tab-selector-1\" checked=\"checked\" /><label for=\"tab-1\" class=\"tab-label-1\">Breve</label>\n<input id=\"tab-2\" type=\"radio\" name=\"radio-set\" class=\"tab-selector-2\" /><label for=\"tab-2\" class=\"tab-label-2\">Itinerario</label>\n<input id=\"tab-3\" type=\"radio\" name=\"radio-set\" class=\"tab-selector-3\" /><label for=\"tab-3\" class=\"tab-label-3\">Precios del Tour</label>\n<input id=\"tab-4\" type=\"radio\" name=\"radio-set\" class=\"tab-selector-4\" /><label for=\"tab-4\" class=\"tab-label-4\">Hoteles a usar</label>\n<input id=\"tab-5\" type=\"radio\" name=\"radio-set\" class=\"tab-selector-5\" /><label for=\"tab-5\" class=\"tab-label-5\">Tour Incluye</label>",
+			"<a href=\"\" class=\"a-ico\"><div class=\"ico-word\"></div></a>",
+			"<a href=\"\" class=\"a-ico\" target=\"_blank\"><div class=\"ico-pdf\"></div></a>",
+			"<a href=\"\" class=\"a-ico\"><div class=\"ico-word\"></div></a>",
+			"<a href=\"\" class=\"a-ico\" target=\"_blank\"><div class=\"ico-pdf\"></div></a>",
+			"<li><a href=\"../../itineraries.html#ancient\"><span>Ancient Inca Passage</span></a></li>",
+			"<h2></a></p><span> ",
+			"<h2>",
+			"<a href=\"\" class=\"a-ico\"><div class=\"ico-word\"></div></a>",
+			"<a href=\"\" class=\"a-ico\" target=\"_blank\"><div class=\"ico-pdf\"></div></a>",
+			"<!--<li><a href=\"../itineraries_peru_extraordinary.html\"><span>Peru Extraordinaria</span></a></li>-->\n<li><a href=\"../itineraries_discover-peru.html\"><span>Descrubra Peru</span></a></li>\n<li><a href=\"../itineraries_peruvian-treasures.html\" class=\"c-a\"><span>Tesoros del Peru</span></a></li>\n<li><a href=\"../itineraries_exploring-peru.html\"><span>Explorando Peru</span></a></li>\n<li><a href=\"../../itineraries.html#ancient\"><span>Antiguo Pasaje Inca</span></a></li>\n<!--<li><a href=\"../itineraries_andean-luxury.html\"><span>Lujo Andina</span></a></li>-->\n<li><a href=\"../itineraries_new-products.html\"><span>Nuevos Productos y Paquetes Especiales</span></a></li>",
+			"<!--<li><a href=\"../itineraries_peru_extraordinary.html\"><span>Peru Extraordinaria</span></a></li>-->\n<li><a href=\"../itineraries_discover-peru.html\"><span>Descrubra Peru</span></a></li>\n<li><a href=\"../itineraries_peruvian-treasures.html\"><span>Tesoros del Peru</span></a></li>\n<li><a href=\"../itineraries_exploring-peru.html\" class=\"c-a\"><span>Explorando Peru</span></a></li>\n<li><a href=\"../../itineraries.html#ancient\"><span>Antiguo Pasaje Inca</span></a></li>\n<!--<li><a href=\"../itineraries_andean-luxury.html\"><span>Lujo Andina</span></a></li>-->\n<li><a href=\"../itineraries_new-products.html\"><span>Nuevos Productos y Paquetes Especiales</span></a></li>",
+			"<li><a href=\"../../itineraries.html\">Programas</a></li>\n<li><a href=\"../../tours_description.html\">Descripción de los Tours</a></li>\n<li><a href=\"../../travel_planner.html\" class=\"active\">Planee su Viaje</a></li>\n<li><a href=\"../../hotels.html\">Hoteles</a></li>\n<li><a href=\"../../cruises.html\">Cruceros</a></li>\n<li><a href=\"../../restaurants.html\">Restaurantes</a></li>",
+			"<li><a href=\"../itineraries.html\">Programas</a></li>\n<li><a href=\"../tours_description.html\">Descripción de los Tours</a></li>\n<li><a href=\"../travel_planner.html\" class=\"active\">Planee su Viaje</a></li>\n<li><a href=\"../hotels.html\">Hoteles</a></li>\n<li><a href=\"../cruises.html\">Cruceros</a></li>\n<li><a href=\"../restaurants.html\">Restaurantes</a></li>",
+			"<li><a href=\"../../itineraries.html\">Programas</a></li>\n<li><a href=\"../../tours_description.html\" class=\"active\">Descripción de los Tours</a></li>\n<li><a href=\"../../travel_planner.html\">Planee su Viaje</a></li>\n<li><a href=\"../../hotels.html\">Hoteles</a></li>\n<li><a href=\"../../cruises.html\">Cruceros</a></li>\n<li><a href=\"../../restaurants.html\">Restaurantes</a></li>",
+			"<li><a href=\"../itineraries.html\">Programas</a></li>\n<li><a href=\"../tours_description.html\" class=\"active\">Descripción de los Tours</a></li>\n<li><a href=\"../travel_planner.html\">Planee su Viaje</a></li>\n<li><a href=\"../hotels.html\">Hoteles</a></li>\n<li><a href=\"../cruises.html\">Cruceros</a></li>\n<li><a href=\"../restaurants.html\">Restaurantes</a></li>",
+			"<li><a href=\"../../itineraries.html\" class=\"active\">Programas</a></li>\n<li><a href=\"../../tours_description.html\">Descripción de los Tours</a></li>\n<li><a href=\"../../travel_planner.html\">Planee su Viaje</a></li>\n<li><a href=\"../../hotels.html\">Hoteles</a></li>\n<li><a href=\"../../cruises.html\">Cruceros</a></li>\n<li><a href=\"../../restaurants.html\">Restaurantes</a></li>",
+			"<li><a href=\"../itineraries.html\" class=\"active\">Programas</a></li>\n<li><a href=\"../tours_description.html\">Descripción de los Tours</a></li>\n<li><a href=\"../travel_planner.html\">Planee su Viaje</a></li>\n<li><a href=\"../hotels.html\">Hoteles</a></li>\n<li><a href=\"../cruises.html\">Cruceros</a></li>\n<li><a href=\"../restaurants.html\">Restaurantes</a></li>",
+			"<li><a href=\"../../itineraries.html\">Programas</a></li>\n<li><a href=\"../../tours_description.html\">Descripción de los Tours</a></li>\n<li><a href=\"../../travel_planner.html\">Planee su Viaje</a></li>\n<li><a href=\"../../hotels.html\">Hoteles</a></li>\n<li><a href=\"../../cruises.html\">Cruceros</a></li>\n<li><a href=\"../../restaurants.html\" class=\"active\">Restaurantes</a></li>",
+			"<li><a href=\"../itineraries.html\">Programas</a></li>\n<li><a href=\"../tours_description.html\">Descripción de los Tours</a></li>\n<li><a href=\"../travel_planner.html\">Planee su Viaje</a></li>\n<li><a href=\"../hotels.html\">Hoteles</a></li>\n<li><a href=\"../cruises.html\">Cruceros</a></li>\n<li><a href=\"../restaurants.html\" class=\"active\">Restaurantes</a></li>",
+			"<li><a href=\"../itineraries.html\">Programas</a></li>\n<li><a href=\"../tours_description.html\">Descripción de los Tours</a></li>\n<li><a href=\"../travel_planner.html\">Planee su Viaje</a></li>\n<li><a href=\"../hotels.html\">Hoteles</a></li>\n<li><a href=\"../cruises.html\">Cruceros</a></li>\n<li><a href=\"../restaurants.html\">Restaurantes</a></li>",
+			"<li><a href=\"../../itineraries.html\">Programas</a></li>\n<li><a href=\"../../tours_description.html\">Descripción de los Tours</a></li>\n<li><a href=\"../../travel_planner.html\">Planee su Viaje</a></li>\n<li><a href=\"../../hotels.html\" class=\"active\">Hoteles</a></li>\n<li><a href=\"../../cruises.html\">Cruceros</a></li>\n<li><a href=\"../../restaurants.html\">Restaurantes</a></li>",
+			"<li><a href=\"../itineraries.html\">Programas</a></li>\n<li><a href=\"../tours_description.html\">Descripción de los Tours</a></li>\n<li><a href=\"../travel_planner.html\">Planee su Viaje</a></li>\n<li><a href=\"../hotels.html\" class=\"active\">Hoteles</a></li>\n<li><a href=\"../cruises.html\">Cruceros</a></li>\n<li><a href=\"../restaurants.html\">Restaurantes</a></li>",
+			"<li><a href=\"../itineraries.html\">Programas</a></li>\n<li><a href=\"../tours_description.html\">Descripción de los Tours</a></li>\n<li><a href=\"../travel_planner.html\">Planee su Viaje</a></li>\n<li><a href=\"../hotels.html\">Hoteles</a></li>\n<li><a href=\"../cruises.html\" class=\"active\">Cruceros</a></li>\n<li><a href=\"../restaurants.html\">Restaurantes</a></li>",
+			"<li><a href=\"itineraries.html\">Programas</a></li>\n<li><a href=\"tours_description.html\">Descripción de los Tours</a></li>\n<li><a href=\"travel_planner.html\">Planee su Viaje</a></li>\n<li><a href=\"hotels.html\">Hoteles</a></li>\n<li><a href=\"cruises.html\">Cruceros</a></li>\n<li><a href=\"restaurants.html\">Restaurantes</a></li>",
+			"sueños",
+			"Imposibles",
+			"Sueños",
+			"Ven a Per",
+			"imposibles",
+			"sueños",
+			"Vive tus",
+			"<div class=\"ico-pdf\"></div>",
+			"<div class=\"ico-word\"></div>",
+			"<div class=\"ico-pdf\"></div>",
+			"<a href=\"http://www.dlaorg.org/peru/fiestatoursperu/en/downloads/peruvian_treasures_pdf/peruvian_treasures_.pdf\" class=\"tab-img\" target=\"_blank\">\n<img src=\"../../images/icono-pdf.png\" class=\"id-pdf\" alt=\"\"></a>\n<a href=\"http://www.dlaorg.org/peru/fiestatoursperu/en/downloads/peruvian_treasures_word/peruvian_treasures_.doc\" class=\"tab-img\">\n<img src=\"../../images/icono-word.png\" class=\"id-word\" alt=\"\"></a>",
+			"<a href=\"http://www.dlaorg.org/peru/fiestatoursperu/en/downloads/exploring_peru_pdf/exploring_peru_.pdf\" class=\"tab-img\" target=\"_blank\">\n<img src=\"../../images/icono-pdf.png\" class=\"id-pdf\" alt=\"\"></a>\n<a href=\"http://www.dlaorg.org/peru/fiestatoursperu/en/downloads/exploring_peru_word/exploring_peru_.doc\" class=\"tab-img\">\n<img src=\"../../images/icono-word.png\" class=\"id-word\" alt=\"\"></a>",
+			"<a href=\" http://www.dlaorg.org/peru/fiestatoursperu/en/downloads/exploring_peru_word/exploring_peru_.doc\"><img src=\"../images/icono-word.png\"",
+			"<a href=\"http://www.dlaorg.org/peru/fiestatoursperu/en/downloads/exploring_peru_pdf/exploring_peru_.pdf \" target=\"_blank\"><img src=\"../images/icono-pdf.png\"",
+			"<a href=\"http://www.dlaorg.org/peru/fiestatoursperu/en/downloads/peruvian_treasures_word/peruvian_treasures_.doc\"><img src=\"../images/icono-word.png\"",
+			"<a href=\"http://www.dlaorg.org/peru/fiestatoursperu/en/downloads/peruvian_treasures_pdf/peruvian_treasures_.pdf \n\" target=\"_blank\"><img src=\"../images/icono-pdf.png\"",
+			"<a href=\"http://www.dlaorg.org/peru/fiestatoursperu/en/downloads/discover_peru_word/discover_peru_.doc\"><img src=\"../images/icono-word.png\"",
+			"\" target=\"_blank\"><img src=\"../images/icono-pdf.png\"",
+			"<a href=\"http://www.dlaorg.org/peru/fiestatoursperu/en/downloads/discover_peru_pdf/discover_peru_.pdf \n\"><img src=\"../images/icono-pdf.png\"",
+			"</h4></div>",
+			"<div class=\"cm-header\"><h4>",
+			"</h2></div>",
+			"<div class=\"cm-header\"><h2>",
+			"<header id=\"main-header\"><div id=\"header-content\">",
+			"</h2></div>",
+			"<div class=\"cm-header\"><h2>",
+			"</h3></div>",
+			"<div class=\"cm-header\"><h3>",
+			"</h2></div>",
+			"<div class=\"cm-header\"><h2>",
+			"<div class=\"cm-header\"><h3>",
+			"</h3></div>",
+			"<header class=\"cm-header\"><h3>",
+			"<span class=\"selectOption\"><a href=\"http://www.fiestatoursperu.com/\" class=\"s-a\">English</a></span>\n<span class=\"selectOption\"><a href=\"http://www.fiesta-tours-peru.com\" class=\"s-a\">Español</a></span>\n<span class=\"selectOption\"><a href=\"http://www.fiestatoursperu.com/portugues\" class=\"s-a\">Portugues</a></span>",
+			"</h4></div>",
+			"<div class=\"cm-header\"><h4>",
+			"</h2></div>",
+			"<header><h2>",
+			"<div class=\"cm-header\"><h2>",
+			"</h2></div>",
+			"<div class=\"cm-header\"><h2>",
+			"</h3></div>",
+			"<div class=\"cm-header\"><h3>",
+			"</h2></div>",
+			"<div class=\"cm-header\"><h2>",
+			"</h3></div>",
+			"<div class=\"cm-header\"><h3>",
+			"href=\"peru_Extraordinary/",
+			"<span class=\"selectOption\"><a href=\"http://www.fiestatoursperu.com/\" class=\"s-a\">English</a></span>\n<span class=\"selectOption\"><a href=\"http://www.fiesta-tours-peru.com\" class=\"s-a\">Español</a></span>\n<span class=\"selectOption\"><a href=\"http://www.fiestatoursperu.com/portugues\" class=\"s-a\">Portugues</a></span>",
+			"Descargar Word",
+			"Abrir Pdf",
+			"Descargar Word",
+			"Abrir Pdf",
+			"Descargar Word",
+			"Abrir Pdf",
+			"Descargar Word",
+			"Abrir Pdf",
+			"El",
+			"Extraordinaria",
+			"Paquetes",
+			"Noches",
+			"Día",
+			"Lima - Centro de la Ciudad",
+			"Centro de la Ciudad",
+			"Teléfono",
+			"Dirección",
+			"País",
+			"Dirección",
+			"Después",
+			"Antes",
+			"<td>Año</td>",
+			"<td>Dic</td>",
+			"<td>Set</td>",
+			"<td>Ago</td>",
+			"<td>Ene</td>",
+			"PLAYAS DEL NORTE",
+			"(precipitación promedio)",
+			"(temperatura promedio)",
+			"horas",
+			"Precio",
+			"Duración",
+			"horas",
+			"Precio",
+			"Visita a la ciudad",
+			"Duración",
+			"Día",
+			"El Valle de Urubamba",
+			"Cañón del ColcaEl Valle de Urubamba",
+			"Cañón del Colca",
+			"Día",
+			"Cañón del Colca",
+			"Día",
+			"Cañón del Colca "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 304.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
